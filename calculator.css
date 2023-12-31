@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(217, 242, 250);
+}
+
+.container {
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 0px;
+    height: 384px;
+    width: 368px;
+}
+
+#calculationInput {
+    height: 76px;
+    font-size: 2rem;
+}
+
+#numberBtn {
+    height: 76px;
+    width: 69.26px;
+    color: white;
+    display: inline;
+    font-size: 2rem;
+}
+
+#negativeSignBtn,
+#decimalBtn,
+#operatorBtn,
+#equalBtn,
+#clearBtn {
+    height: 76px;
+    width: 69.26px;
+    color: white;
+    display: inline;
+    font-size: 2rem;
+}
+
+#deleteCharBtn {
+    height: 76px;
+    width: 69.26px;
+    color: white;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
